@@ -1,3 +1,4 @@
+import "./lesson01.css";
 import viteLogo from "/vite.svg";
 import reactLogo from "../../assets/react.svg";
 
